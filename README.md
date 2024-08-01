@@ -1,7 +1,7 @@
 [![MasterHead](https://media2.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=6c09b952ohh8hckfyyeg8dzaesjkfakxsq1n19rv8a3a8t6z&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://main--shuxriddincoder.netlify.app/)
 <h1 align="center">Hi 👋, I'm Shuxriddin</h1>
 <h3 align="center">I am Full/Stack developer in Python from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/eternitech/images/f_auto,q_auto/v1619440629/eternitech/full-stack-final/full-stack-final.png">
+<img align="right" alt="Coding" width="400" src="https://www.pngfind.com/pngs/m/329-3293400_are-you-the-best-fullstack-developer-full-stack.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuhriddin&label=Profile%20views&color=0e75b6&style=flat" alt="shuhriddin" /> </p>
 
