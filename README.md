@@ -1,7 +1,7 @@
 [![MasterHead](https://media2.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=6c09b952ohh8hckfyyeg8dzaesjkfakxsq1n19rv8a3a8t6z&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://main--shuxriddincoder.netlify.app/)
 <h1 align="center">Hi 👋, I'm Shuxriddin</h1>
 <h3 align="center">I am Full/Stack developer in Python from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif">
+<img align="right" alt="Coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2019/12/892e8b39f44fa8fedd2be543dd3f5289-1024x832.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuhriddin&label=Profile%20views&color=0e75b6&style=flat" alt="shuhriddin" /> </p>
 
