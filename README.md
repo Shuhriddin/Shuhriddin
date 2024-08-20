@@ -1,7 +1,7 @@
 [![MasterHead](https://redblink.com/wp-content/uploads/2019/07/front-end-back-end-and-full-stack-web-development..gif)](https://main--shuxriddincoder.netlify.app/)
 <h1 align="center">Hi 👋, I'm Shuxriddin</h1>
 <h3 align="center">I am Full/Stack developer in Python from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://redblink.com/wp-content/uploads/2019/07/front-end-back-end-and-full-stack-web-development..gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/96/7e/9e/967e9e420cfa3c710fdc015a0c27c8f0.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuhriddin&label=Profile%20views&color=0e75b6&style=flat" alt="shuhriddin" /> </p>
 
