@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Python**
 
-- 👨‍💻 All of my projects are available at [https://main--shuxriddincoder.netlify.app]([https://main--shuxriddincoder.netlify.app](https://66d89a936e9fc30a81225657--shuxriddincoder.netlify.app)
+- 👨‍💻 All of my projects are available at [https://main--shuxriddincoder.netlify.app]([https://main--shuxriddincoder.netlify.app](https://66d89a936e9fc30a81225657--shuxriddincoder.netlify.app))
 
 - 💬 Ask me about **Python, JavaScript, HTML5, CSS**
 
 - 📫 How to reach me **shuxriddinsolixov2023@gmail.com**
 
-- 📄 Know about my experiences [https://main--shuxriddincoder.netlify.app]([https://main--shuxriddincoder.netlify.app](https://66d89a936e9fc30a81225657--shuxriddincoder.netlify.app)
+- 📄 Know about my experiences [https://main--shuxriddincoder.netlify.app]([https://main--shuxriddincoder.netlify.app](https://66d89a936e9fc30a81225657--shuxriddincoder.netlify.app))
 
 - ⚡ Fun fact **I think that I am a positive and constantly working on myself**
 
