@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/id/540849924/photo/hacker-using-phone.jpg?s=612x612&w=0&k=20&c=oz1z2K-z7C5-hueoFXMkLuypcRznhGPcu_PhHEU7mTU=)](https://main--shuxriddincoder.netlify.app/)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1200/1*rnmLpVSMj4W9IZCCxiuZvg.gif)](https://main--shuxriddincoder.netlify.app/)
 <h1 align="center">Hi 👋, I'm Shuxriddin</h1>
 <h3 align="center">I am Full/Stack developer in Python from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://redblink.com/wp-content/uploads/2019/07/front-end-back-end-and-full-stack-web-development..gif">
