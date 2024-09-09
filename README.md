@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=6c09b952ohh8hckfyyeg8dzaesjkfakxsq1n19rv8a3a8t6z&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://main--shuxriddincoder.netlify.app/)
+[![MasterHead](https://i.gifer.com/BB5g.gif)](https://main--shuxriddincoder.netlify.app/)
 <h1 align="center">Hi 👋, I'm Shuxriddin</h1>
 <h3 align="center">I am Full/Stack developer in Python from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://redblink.com/wp-content/uploads/2019/07/front-end-back-end-and-full-stack-web-development..gif">
