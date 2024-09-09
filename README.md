@@ -1,4 +1,4 @@
-[![MasterHead](https://cdna.artstation.com/p/assets/images/images/008/827/276/original/kjetil-myhren-radar2.gif?1515544991)](https://main--shuxriddincoder.netlify.app/)
+[![MasterHead](https://cdna.artstation.com/p/assets/images/images/008/827/276/original/kjetil-myhren-radar2.gif)](https://main--shuxriddincoder.netlify.app/)
 <h1 align="center">Hi 👋, I'm Shuxriddin</h1>
 <h3 align="center">I am Full/Stack developer in Python from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://redblink.com/wp-content/uploads/2019/07/front-end-back-end-and-full-stack-web-development..gif">
